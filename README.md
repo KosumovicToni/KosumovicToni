@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @KosumovicToni
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++, c, html 5, css, js
+# 👋 Hey there! 
 
+#### I’m Toni Kosumovic, i am currently studing computer science student at I.T.T.S. V. Volterra High School.
