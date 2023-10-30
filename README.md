@@ -1,4 +1,4 @@
-# 👋 [Hey there!] 
+# 👋 [Hey there!]
 
 #### I’m Toni Kosumovic, i am currently studing computer science at the University of Padova.
 
